@@ -2,5 +2,5 @@
 ## 安装
 npm install
 ## 运行
-npm start
-cmd -> nodemon start
+npm start</br>
+或者 cmd -> nodemon start
